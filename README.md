@@ -11,7 +11,7 @@ docker pull sadokf/symfony-server-nginx-php7
 docker run -t -d -i -p 8080:80 sadokf/symfony-server-nginx-php7
 ```
 
-##Mount the Symfony app directory:
+## Mount the Symfony app directory:
 
 ```sh
 docker run -t -d -i -p 8080:80 -v /sf-app-path/:/var/www/html sadokf/symfony-server-nginx-php7
