@@ -4,7 +4,7 @@ Symfony web server container runs supervisord (php7 and nginx)
 ## Usage
 
 ```sh
-    $ docker pull sadokf/symfony-server-nginx-php7
+docker pull sadokf/symfony-server-nginx-php7
 ```
 
 ```sh
