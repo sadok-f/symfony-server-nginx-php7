@@ -1,5 +1,5 @@
 # symfony-server-nginx-php7
-Symfony web server container runs supervisord (php7 and nginx)
+Symfony 4 web server container runs supervisord (php7 and nginx)
 
 ## Usage
 
